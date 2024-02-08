@@ -1,0 +1,2 @@
+bmi,phys_activity,heart_diseaseor_attack,high_bp,smoker,stroke,age,sex,diabetic_status
+32,FALSE,TRUE,FALSE,TRUE,FALSE,1,0,diabetic_status
