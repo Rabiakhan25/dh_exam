@@ -1,0 +1,15 @@
+# R / RStudio
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+*.Rcheck/
+
+# Generated model cache (rebuilt automatically on first run)
+models/*.rds
+
+# Deployment
+rsconnect/
+
+# OS
+.DS_Store
